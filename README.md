@@ -9,7 +9,7 @@ Bienvenue sur la première version de **TooltyJS**, un plugin propulsé par [jQu
   * à droite
 
 ## Charger le plugin
-Ajoutez simplement jQuery puis TooltyJS
+Ajoutez simplement jQuery puis TooltyJS puis le fichier CSS
 ```javascript
 <script type='text/javascript' src='https://code.jquery.com/jquery-3.1.1.min.js'></script>
 <script type='text/javascript' src='./jquery.tooltyjs.min.js'></script>
