@@ -15,7 +15,16 @@ Ajoutez simplement jQuery puis TooltyJS
 <script type='text/javascript' src='./jquery.tooltyjs.min.js'></script>
 ```
 
-## Comment utiliser TooltyJS ?
-
+## Comment utiliser TooltyJS ? 
+De simples attributs en HTML sont utiles pour ce plugin, exemple ci-dessous:
+```
+<a href="#" tooltip tooltip-direction="[direction]" tooltip-content="[content]"></a>
+```
+#### Que mettre dans [direction] et [content] ?
+* `[direction]`
+ * top (en haut)
+ * bottom (en bas)
+ * left (gauche)
+ * right (droite)
 <hr>
 # Bonne utilisation
