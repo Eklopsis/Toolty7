@@ -26,5 +26,7 @@ De simples attributs en HTML sont utiles pour ce plugin, exemple ci-dessous:
  * bottom (en bas)
  * left (gauche)
  * right (droite)
+* `[content]`
+ * Le contenu du tooltip que vous voulez créer
 <hr>
 # Bonne utilisation
